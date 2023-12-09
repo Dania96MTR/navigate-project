@@ -1,4 +1,3 @@
-
 import './App.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import About from './About'
@@ -25,6 +24,8 @@ function App() {
     }
 
   ])
+
+  
 
   return (
     <>
